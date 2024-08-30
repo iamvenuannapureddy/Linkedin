@@ -1,6 +1,6 @@
-<h1>Project-3</h1>
 
-<h2>Project Title: Re-Architecting a Multi-Tier Web Application for AWS Cloud-Native Environment</h2>
+
+<h1>Project Title: Re-Architecting a Multi-Tier Web Application for AWS Cloud-Native Environment</h1>
 
 **Description**:
 
