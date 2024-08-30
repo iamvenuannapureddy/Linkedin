@@ -1,6 +1,5 @@
-<h1>Project-2</h1>
 
-<h2>Project Title: Lift and Shift: Migrating a Multi-Tier Web Application to AWS</h2>
+<h1>Project Title: Lift and Shift: Migrating a Multi-Tier Web Application to AWS</h1>
 
 **Lift and Shift to AWS** is a strategy for migrating an existing application to the cloud without redesigning or refactoring the application. The goal is to replicate your on-premise infrastructure in the cloud while leveraging the scalability, flexibility, and cost-effectiveness of AWS.
 
