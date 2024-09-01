@@ -1,4 +1,4 @@
-<<h1>🚀 **Project Showcase: Jenkins Pipeline as Code for Java Application** 🚀</h1>>
+<h1>🚀 **Project Showcase: Jenkins Pipeline as Code for Java Application** 🚀</h1>
 
 I’ve recently automated the CI/CD process of a Java application by implementing Jenkins Pipeline as Code using Groovy. This project ensures efficient, reproducible, and transparent builds, tests, and deployments. Here’s a quick rundown:
 
