@@ -5,7 +5,7 @@ I recently completed a project to containerize a Java (Spring Boot) application 
 
 🔹 **Dockerfile Creation**: Wrote a Dockerfile to define the application’s environment, specifying a lightweight OpenJDK base image, copying the application’s JAR file, exposing necessary ports, and defining the entry point.
 
-🔹 **Image Building**: Used Docker to build a custom image containing the entire application stack, encapsulating everything the application needs to run.
+🔹 **Image Building**: Compiles the Java application using Maven & Used Docker to build a custom image containing the entire application stack, encapsulating everything the application needs to run.
 
 🔹 **Container Deployment**: Ran the Docker container locally, mapping ports to allow access to the application via `http://localhost:8080`.
 
