@@ -14,12 +14,8 @@ I’ve recently automated the CI/CD process of a Java application by implementin
 
 🔹 **CI/CD Automation**: By defining the entire CI/CD process in code, we’ve improved maintainability, version control, and scalability of the build process.
 
-🔗 [GitHub Repository](#)
 
-This project demonstrates my ability to automate complex build and deployment pipelines using Jenkins and Groovy. If you’re passionate about CI/CD, DevOps, or cloud-native development, let’s connect!
+This project demonstrates my ability to automate complex build and deployment pipelines using Jenkins and Groovy.
 
 #Jenkins #CICD #PipelineAsCode #DevOps #Java #Docker #Kubernetes #Automation #Groovy #LinkedInProjects
 
----
-
-This LinkedIn post highlights your expertise in creating Jenkins Pipelines as Code, showcasing your skills in DevOps, CI/CD, and automation. It’s a great way to demonstrate your capabilities to potential employers, clients, or peers in the tech community.
