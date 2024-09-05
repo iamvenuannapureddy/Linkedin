@@ -1,4 +1,4 @@
-### **Step 10: Continuous Delivery of a Java Web Application**
+<h1>Project-10: Continuous Delivery of a Java Web Application</h1>
 
 **Project Overview**:
 In this project, we will set up a Continuous Delivery (CD) pipeline for a Java web application. Continuous Delivery allows you to automatically build, test, and deploy code to production or staging environments, ensuring that the application is always in a deployable state. We’ll use tools like Jenkins, Docker, AWS (or any cloud provider), and a CI/CD pipeline that automates the process.
@@ -182,32 +182,5 @@ In this project, we will set up a Continuous Delivery (CD) pipeline for a Java w
 - In AWS ECS, you can use deployment configurations to enable automatic rollback in case of failure.
 - In Kubernetes, configure health checks and automatic rollbacks using `kubectl rollout undo`.
 
----
 
-### **LinkedIn Post Example**:
 
----
-
-🚀 **Project Showcase: Continuous Delivery of a Java Web Application** 🚀
-
-I’ve successfully implemented a Continuous Delivery (CD) pipeline for a Java web application, automating the build, test, and deployment process using Jenkins, Docker, and AWS. Here’s how it works:
-
-🔹 **Jenkins Pipeline**: Defined a fully automated CI/CD pipeline in a `Jenkinsfile` to build, test, containerize, and deploy the application.
-
-🔹 **Docker Containerization**: Used Docker to containerize the Java web application, making it portable and easily deployable across different environments.
-
-🔹 **AWS Deployment**: The pipeline deploys the application to an AWS ECS cluster (or Kubernetes) for staging and production environments. It also includes a manual approval step before production deployment.
-
-🔹 **Slack Notifications**: Integrated Slack to notify the team of build and deployment status, ensuring transparency throughout the development process.
-
-🔗 [GitHub Repository](#)
-
-This project demonstrates my expertise in setting up automated CD pipelines and delivering high-quality software faster and more reliably. Let’s connect if you’re interested in DevOps, CI/CD, or cloud-native applications!
-
-#Jenkins #Docker #AWS #ECS #Kubernetes #CI/CD #Java #DevOps #Automation #ContinuousDelivery #LinkedInProjects
-
----
-
-This LinkedIn post effectively communicates your experience with setting up Continuous Delivery for Java web applications, showcasing your skills in CI/CD, automation,
-
- and cloud deployment.
