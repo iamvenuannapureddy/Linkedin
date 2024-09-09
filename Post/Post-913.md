@@ -1,6 +1,6 @@
 
      
-🚀 **Project Showcase: CI/CD Pipeline Using GitHub Actions** 🚀
+<H1>🚀 Project Showcase: CI/CD Pipeline Using GitHub Actions 🚀</H1>
 
 I implemented a complete CI/CD pipeline for a Java application using GitHub Actions. Here’s a quick overview:
 
